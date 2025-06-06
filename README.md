@@ -13,3 +13,7 @@ pnpm dev
 # or start the server and open the app in a new browser tab
 pnpm dev --open
 ```
+
+## Credits
+
+This project originated from [Joy of Code](https://github.com/mattcroat) blog bost [Create Beatiful Presentations With Svelte](https://joyofcode.xyz/beautiful-presentations-with-svelte).
